@@ -5,8 +5,7 @@ Founder of [Codyle](https://codyle.com) | Software Engineer
 --------------------
 Full-Stack Developer
 
-# 💫 About Me:
-Hiya! 👋<br><br>I'm Mohammad Soqar, a Full-Stack Developer based in Istanbul.<br><br>👨‍💻 Currently coding my way through life;<br><br>💡 Always looking for new and exciting projects to work on;<br><br>📨 Shoot me an email at mnsoqar1@gmail.com to chat more!<br><br>Thanks for dropping by, and happy coding!
+<strong>Hiya!</strong> 👋<br><br>I'm Mohammad Soqar, a Full-Stack Developer based in Istanbul.<br><br>👨‍💻 Currently coding my way through life;<br><br>💡 Always looking for new and exciting projects to work on;<br><br>📨 Shoot me an email at mnsoqar1@gmail.com to chat more!<br><br>Thanks for dropping by, and happy coding!
 
 
 ## 🌐 Socials:
