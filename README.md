@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohammad Soqar
 ===============================
 
-Founder of [Codyle](https://codyle.com) | Software Engineer
+ Software Engineer
 --------------------
 
 
