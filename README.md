@@ -15,7 +15,7 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohammadSoqar&color=red)  
+![Profile Views](https://komarev.com/ghpvc/?username=MohammadSoqar)  
 
 ---
 
