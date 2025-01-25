@@ -1,4 +1,4 @@
-# 👨‍💻 Mohammad Soqar: Automate Everything, Build Anything!  
+# 👨‍💻 Mohammad Soqar Ahmad: Building Innovative Solutions, One Line of Code at a Time!
 *"Simplicity is the soul of efficiency.✨⚙️"*  – Austin Freeman 
 
 *"First, solve the problem. Then, write the code.🧠🛠️"* – John Johnson 
