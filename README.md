@@ -8,9 +8,12 @@
 ---
 
 <a href="https://github.com/MohammadSoqar">
-<img src="https://raw.githubusercontent.com/Mohammad-soqar/github-stats/master/generated/overview.svg" />
-<img src="https://github.com/Mohammad-soqar/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/Mohammad-soqar/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/Mohammad-soqar/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+
 </a>  
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MohammadSoqar&color=red)  
 
