@@ -20,34 +20,26 @@
 ## 🏆 **Latest Masterpieces**  
 From innovative healthcare tech to AI-driven apps, here are my **highlight projects**:
 
-| **Project**                     | **Preview**                                                                                                                                         |
-|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| 🌡️ [RA Monitoring System](https://github.com/MohammadSoqar/RA-Monitoring-System) | <img src="https://github.com/user-attachments/assets/example1.gif" alt="RA Monitoring System" width="400" height="259">                             |
-| 🌱 [Plant AI App](https://github.com/MohammadSoqar/Plant-AI-App)         | <img src="https://github.com/user-attachments/assets/example2.gif" alt="Plant AI App" width="400" height="259">                                     |
-| 🏥 [MedFlow ERP System](https://github.com/MohammadSoqar/MedFlow)       | <img src="https://github.com/user-attachments/assets/example3.gif" alt="MedFlow ERP System" width="400" height="259">                               |
-| ⚖️ [LexAI Legal Chatbot](https://github.com/MohammadSoqar/LexAI)        | <img src="https://github.com/user-attachments/assets/example4.gif" alt="LexAI Legal Chatbot" width="400" height="259">                              |
-| 🛒 [E-Commerce App](https://github.com/MohammadSoqar/E-Commerce-App)   | <img src="https://github.com/user-attachments/assets/example5.gif" alt="E-Commerce App" width="400" height="259">                                   |
+| **Project**                                                                                         | **Architecture** | **Preview**                                                                                                                             |
+|-----------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| 🌱 [Plant AI App *In Progress*](https://github.com/Mohammad-soqar/Plant_AI) | MVVM | <img src="https://github.com/Mohammad-soqar/Mohammad-soqar/blob/main/assets/plantai.png" alt="Plant AI App" width="400" height="259">         |
+| 🌡️ [RA Monitoring System *In Progress*](https://github.com/Mohammad-soqar/rmts)| MVVM|No Picture Available |
+| 🌐 [LocaLink](https://github.com/Mohammad-soqar/localink_sm)| None | <img src="https://github.com/Mohammad-soqar/Mohammad-soqar/blob/main/assets/localink.png" alt="MedFlow ERP System" width="400" height="259">                       |
+| 🌐 [CRM System](https://github.com/Mohammad-soqar/ZoomTourismWeb)| MVC | <img src="https://github.com/Mohammad-soqar/Mohammad-soqar/blob/main/assets/zoomtourism.png" alt="MedFlow ERP System" width="400" height="259">                       |
 
----
 
-## 🌟 **Fun & Experimental Projects**  
-Sometimes, the best ideas come from pure experimentation!  
-
-| Project                                | Preview                                      |
-|----------------------------------------|----------------------------------------------|
-| 🤖 Custom **Smart Glove** for Healthcare | <img src="https://github.com/user-attachments/assets/smart_glove.gif" alt="Smart Glove" width="60" height="60"> |
-| 📊 AI-Driven **Habit Tracker**          | <img src="https://github.com/user-attachments/assets/habit_tracker.gif" alt="Habit Tracker" width="60" height="60"> |
-| 🚀 Codyle Academy Bootcamp Highlights   | <img src="https://github.com/user-attachments/assets/codyle_bootcamp.gif" alt="Codyle Bootcamp" width="60" height="60"> |
 
 ---
 
 ## 🚀 **Who Am I?**  
-I’m a **Software Engineer**, a **Mobile Developer**, and an **AI Enthusiast** with one goal: **solving real-world problems through cutting-edge tech**. With expertise in **Flutter**, **React**, and **Firebase**, I specialize in building sleek, scalable, and smart solutions that leave a lasting impression.
+I’m a **Software Engineer**, a **Mobile Developer**, and an **AI Enthusiast** with one goal: **solving real-world problems through cutting-edge tech**. With expertise in **Flutter**, **Node.JS**, **React**, **Asp.NET**, **C#** and **Firebase**, I specialize in building sleek, scalable, and smart solutions that leave a lasting impression.
 
 Here’s what I’m passionate about:  
-- **AI-Powered Apps:** Merging creativity with artificial intelligence.  
-- **Full-Stack Development:** From pixel-perfect designs to robust backends.  
-- **Automation:** If I can automate it, I will.  
+- **Mobile Development**: Crafting sleek, intuitive apps using Flutter and Firebase for Android and iOS.  
+- **Full-Stack Solutions**: Building robust, scalable systems with React, Node.js, and cutting-edge backend tools.  
+- **Problem-Solving**: Turning complex challenges into elegant, user-centric solutions.  
+- **Efficiency-Driven**: Automating workflows and creating tools to save time and maximize productivity.  
+- **User-Focused Design**: Combining functionality with visually stunning interfaces for exceptional user experiences.  
 
 ---
 
@@ -58,31 +50,37 @@ Here are the tools and languages that power my projects:
 | 🛠️ Language      | ✅ Proficiency | 🛠️ Language    | ✅ Proficiency |
 |-------------------|---------------|----------------|---------------|
 | Dart (Flutter)    | 💪 Strong     | JavaScript     | 💪 Strong     |
-| Python            | 💪 Strong     | SQL            | 💪 Strong     |
-| HTML              | 💪 Strong     | CSS            | 💪 Strong     |
+| C#            | 💪 Strong     | SQL            | 💪 Strong     |
+| Python            | 💪 Medium     | JAVA            | 💪 Low     |
 
-### **Technologies:**  
-| **Category**           | **Tools**                                                                 |
-|-------------------------|---------------------------------------------------------------------------|
-| Mobile Development      | Flutter, Firebase                                                       |
-| Web Development         | React, Node.js, Express                                                 |
-| Backend & Databases     | Google Cloud APIs, PostgreSQL                                           |
-| Design & Prototyping    | Figma, Adobe Creative Suite                                             |
+
+### **Technologies**  
+| **Category**             | **Tools & Frameworks**                                                 |
+|---------------------------|------------------------------------------------------------------------|
+| **Mobile Development**    | Flutter, Firebase, Dart                                               |
+| **Web Development**       | React, Node.js, Express.js, HTML, CSS                                 |
+| **Backend & Databases**   | Firebase (Realtime Database, Firestore),Node.js, PostgreSQL, Google Cloud APIs|
+| **UI/UX Design**          | Figma, Adobe Creative Suite                                    |
+| **Version Control**       | Git, GitHub                                                 |
+| **DevOps & Automation**   | GitHub Actions, CI/CD Pipelines                                       |
+| **Other Tools**           | Visual Studio Code, Android Studio ,Visual Studio                                   |
+
 
 ---
 
 ## 🌍 **Experience in Action**  
-- **Founder of Codyle Academy:** Empowering future developers with bootcamps on Flutter, Firebase, and React.  
-- **Healthcare Tech Innovator:** Delivered tech solutions like the **RA Monitoring System**.  
-- **Automation Wizard:** From ERP systems to AI-enhanced apps, I automate processes and streamline workflows.  
+- **Founder of Codyle Academy**: Leading educational programs with bootcamps centered on Flutter, Firebase, and React to nurture future developers.  
+- **Healthcare Solutions Developer**: Created impactful projects like the **RA Monitoring System**, delivering cutting-edge tools for healthcare innovation.  
+- **Full-Stack Specialist**: Expertise in developing robust web and mobile applications, combining functionality with exceptional design.  
+ 
 
 ---
 
 ## 🎯 **Let’s Build Something Awesome!**  
 Want to collaborate? Have an idea? Just want to talk tech?  
 Feel free to connect with me here:  
-📧 Email: [mohammad.soqar@developer.com](mailto:mohammad.soqar@developer.com)  
-🌐 LinkedIn: [linkedin.com/in/mohammadsoqar](https://linkedin.com/in/mohammadsoqar)  
+📧 Email: [mnsoqar1@gmail.com](mailto:mnsoqar1@gmail.com)  
+🌐 LinkedIn: [linkedin.com/in/mohammad-soqar-ahmad](https://www.linkedin.com/in/mohammad-soqar-ahmad/)  
 
 ---
 
@@ -94,9 +92,9 @@ flowchart LR
     C --> E[Success 💡]
     D --> F[Frustration 😩]
 
-    style A stroke:#1fa065,stroke-width:5px
+    style A stroke:#4E29A8,stroke-width:5px
     style B stroke:#e37b10,stroke-width:3px
-    style C stroke:#1fa065,stroke-width:4px
+    style C stroke:#4E29A8,stroke-width:4px
     style D stroke:#e12d39,stroke-width:4px
-    style E stroke:#1fa065,stroke-width:5px
+    style E stroke:#4E29A8,stroke-width:5px
     style F stroke:#e12d39,stroke-width:5px
