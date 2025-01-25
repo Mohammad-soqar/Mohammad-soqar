@@ -1,9 +1,7 @@
 # 👨‍💻 Mohammad Soqar: Automate Everything, Build Anything!  
-*"As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow 🤖"* – Doug McIlroy  
+*"Simplicity is the soul of efficiency.✨⚙️"*  – Austin Freeman 
 
-*"Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it 👷"* – Zhuowei Zhang  
-
-*"Automated testing is a safety net that protects the program from its programmers 🐛"* – Yegor Bugayenko  
+*"First, solve the problem. Then, write the code.🧠🛠️"* – John Johnson 
 
 ---
 
