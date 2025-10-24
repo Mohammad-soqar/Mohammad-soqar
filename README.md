@@ -1,81 +1,86 @@
-# 👨‍💻 Mohammad Soqar Ahmad: Building Innovative Solutions, One Line of Code at a Time!
-*"Simplicity is the soul of efficiency.✨⚙️"*  – Austin Freeman 
-
-*"First, solve the problem. Then, write the code.🧠🛠️"* – John Johnson 
-
----
-
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=MohammadSoqar)  
+# 👨‍💻 Mohammad Soqar Ahmad — Building Innovative Solutions, One Line of Code at a Time!
+*"Simplicity is the soul of efficiency.✨⚙️"* – Austin Freeman  
+*"First, solve the problem. Then, write the code.🧠🛠️"* – John Johnson  
 
 ---
 
-## 🏆 **Latest Masterpieces**  
-From innovative healthcare tech to AI-driven apps, here are my **highlight projects**:
-
-| **Project**                                                                                         | **Architecture** | **Preview**                                                                                                                             |
-|-----------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| 🌱 [Plant AI App *In Progress*](https://github.com/Mohammad-soqar/Plant_AI) | MVVM | <img src="https://github.com/Mohammad-soqar/Mohammad-soqar/blob/main/assets/plantai.png" alt="Plant AI App" width="400" height="259">         |
-| 🌡️ [RA Monitoring System *In Progress*](https://github.com/Mohammad-soqar/rmts)| MVVM|No Picture Available |
-| 🌐 [LocaLink](https://github.com/Mohammad-soqar/localink_sm)| None | <img src="https://github.com/Mohammad-soqar/Mohammad-soqar/blob/main/assets/localink.png" alt="MedFlow ERP System" width="400" height="259">                       |
-| 🌐 [CRM System](https://github.com/Mohammad-soqar/ZoomTourismWeb)| MVC | <img src="https://github.com/Mohammad-soqar/Mohammad-soqar/blob/main/assets/zoomtourism.png" alt="MedFlow ERP System" width="400" height="259">                       |
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=MohammadSoqar)
 
 ---
 
-## 🚀 **Who Am I?**  
-I’m a **Software Engineer**, a **Mobile Developer**, and an **AI Enthusiast** with one goal: **solving real-world problems through cutting-edge tech**. With expertise in **Flutter**, **Node.JS**, **React**, **Asp.NET**, **C#** and **Firebase**, I specialize in building sleek, scalable, and smart solutions that leave a lasting impression.
+## 🏆 **Latest Masterpieces**
+From AI-driven legal tech to healthcare innovation, here are some of my highlight projects:
 
-Here’s what I’m passionate about:  
-- **Mobile Development**: Crafting sleek, intuitive apps using Flutter and Firebase for Android and iOS.  
-- **Full-Stack Solutions**: Building robust, scalable systems with React, Node.js, and cutting-edge backend tools.  
-- **Problem-Solving**: Turning complex challenges into elegant, user-centric solutions.  
-- **Efficiency-Driven**: Automating workflows and creating tools to save time and maximize productivity.  
-- **User-Focused Design**: Combining functionality with visually stunning interfaces for exceptional user experiences.  
-
----
-
-## 🛠️ **Tech Toolbox**  
-Here are the tools and languages that power my projects:  
-
-### **Languages:**  
-| 🛠️ Language      | ✅ Proficiency | 🛠️ Language    | ✅ Proficiency |
-|-------------------|---------------|----------------|---------------|
-| Dart (Flutter)    | 💪 Strong     | JavaScript     | 💪 Strong     |
-| C#            | 💪 Strong     | SQL            | 💪 Strong     |
-| Python            | 💪 Medium     | JAVA            | 💪 Low     |
-
-
-### **Technologies**  
-| **Category**             | **Tools & Frameworks**                                                 |
-|---------------------------|------------------------------------------------------------------------|
-| **Mobile Development**    | Flutter, Firebase, Dart                                               |
-| **Web Development**       | React, Node.js, Express.js, HTML, CSS                                 |
-| **Backend & Databases**   | Firebase (Realtime Database, Firestore),Node.js, PostgreSQL, Google Cloud APIs|
-| **UI/UX Design**          | Figma, Adobe Creative Suite                                    |
-| **Version Control**       | Git, GitHub                                                 |
-| **DevOps & Automation**   | GitHub Actions, CI/CD Pipelines                                       |
-| **Other Tools**           | Visual Studio Code, Android Studio ,Visual Studio                                   |
-
+| **Project** | **Architecture** | **Preview** |
+|--------------|------------------|--------------|
+| ⚖️ [SnowLEX – AI Legal Research Assistant](https://snowlex-web-dev-345540210037.europe-west3.run.app/) | RAG + FastAPI + Next.js | *AI-powered assistant integrating Qdrant, Ollama Mistral, and Firebase.* |
+| 🌍 [Ticket Travel & Tourism] | Next.js + Node.js + Prisma | <img src="https://github.com/Mohammad-soqar/Mohammad-soqar/blob/main/assets/zoomtourism.png" alt="Ticket Tourism Platform" width="400"> |
+| 🏥 [RA Monitoring System – Teknofest 2025] | Flutter (MVVM) + Next.js + Firebase | <img src="https://yt3.googleusercontent.com/wmYCoX9H0HzL4oVsMsxAyPQEFaqH9wPLY3UuPj_dPqFOnIzMX8SIaQvkd5j-eYUquwFyymYb9ds=s900-c-k-c0x00ffffff-no-rj" alt="Ticket Tourism Platform" width="400">
 
 ---
 
-## 🌍 **Experience in Action**  
-- **Founder of Codyle Academy**: Leading educational programs with bootcamps centered on Flutter, Firebase, and React to nurture future developers.  
-- **Healthcare Solutions Developer**: Created impactful projects like the **RA Monitoring System**, delivering cutting-edge tools for healthcare innovation.  
-- **Full-Stack Specialist**: Expertise in developing robust web and mobile applications, combining functionality with exceptional design.  
- 
+## 🚀 **About Me**
+I’m a **Full-Stack Software Engineer** and **AI Enthusiast** passionate about crafting meaningful tech.  
+I turn complex problems into **human-centered**, **scalable**, and **performant** solutions — from Flutter apps to cloud-deployed AI systems.
+
+💡 What I focus on:
+- **Mobile Development**: Flutter + Firebase for Android & iOS  
+- **Web Architecture**: Next.js, Node.js, PostgreSQL, AWS  
+- **AI Integration**: Building RAG systems, FastAPI microservices, and LLM-based assistants  
+- **System Design**: Modular architecture, SOLID, CI/CD  
+- **UI/UX Excellence**: Blending beautiful interfaces with technical depth  
 
 ---
 
-## 🎯 **Let’s Build Something Awesome!**  
-Want to collaborate? Have an idea? Just want to talk tech?  
-Feel free to connect with me here:  
-📧 Email: [mnsoqar1@gmail.com](mailto:mnsoqar1@gmail.com)  
-🌐 LinkedIn: [linkedin.com/in/mohammad-soqar-ahmad](https://www.linkedin.com/in/mohammad-soqar-ahmad/)  
+## 🛠️ **Tech Toolbox**
+
+### **Languages**
+| Language | Proficiency | Language | Proficiency |
+|-----------|--------------|-----------|--------------|
+| Dart (Flutter) | 💪 Strong | JavaScript | 💪 Strong |
+| C# | 💪 Strong | SQL | 💪 Strong |
+| Python | 💪 Medium | Java | 💪 Beginner |
+
+### **Technologies**
+| Category | Tools & Frameworks |
+|-----------|--------------------|
+| **Mobile** | Flutter, Firebase, Dart |
+| **Web** | React, Next.js, Node.js, Express.js |
+| **Backend & Cloud** | Firebase, PostgreSQL, Google Cloud, AWS |
+| **UI/UX** | Figma, Adobe Creative Suite |
+| **Version Control** | Git, GitHub |
+| **DevOps** | GitHub Actions, CI/CD Pipelines |
+| **Other Tools** | VS Code, Android Studio, Visual Studio |
+
+---
+
+## 🌍 **Experience**
+- 🧠 **Justice4.0** – Software & AI Developer *(Aug 2025 – Present)*  
+  Building **SnowLEX**, an AI-powered legal assistant using **RAG**, **Qdrant**, and **FastAPI** on Google Cloud.
+  
+- 🧳 **Ticket Travel & Tourism** – Full-Stack Developer *(Apr 2025 – Oct 2025)*  
+  Architected a self-service tourism system using **Next.js**, **Node.js**, and **Prisma** deployed on **AWS**.
+
+- 🧩 **Tigflo** – Software Architect & UI/UX Designer *(Dec 2024 – Present)*  
+  Overseeing architecture and design system for healthcare platforms with **Next.js**, **Flutter**, and **Node.js**.
+
+- 🏢 **Zoom Property** – Software Engineering Intern *(Aug 2023 – Nov 2023)*  
+  Developed CRM modules for booking and logistics automation.
+
+---
+
+## 🧭 **Leadership & Initiatives**
+- 🎓 **Founder, Codyle Academy** – Training next-gen developers through Flutter & React bootcamps.  
+- 💼 **Codyle Student Club (President)** – Organized tech events and hackathons at Üsküdar University.  
+- 🏆 **Teknofest Finalist (2025)** – RA Monitoring System ranked top 8/13 000 nationally.  
+
+---
+
+## 🎯 **Let’s Build Something Awesome**
+📧 [mnsoqar1@gmail.com](mailto:mnsoqar1@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/mohammad-soqar-ahmad/)  
+🐙 [GitHub](https://github.com/Mohammad-soqar)  
+💼 [Portfolio](https://mohammad-soqar.github.io/Portfolio-/)  
 
 ---
 
