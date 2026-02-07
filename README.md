@@ -172,7 +172,7 @@ _Istanbul, Turkey_
 📧 [mnsoqar1@gmail.com](mailto:mnsoqar1@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/mohammad-soqar-ahmad/)  
 🐙 [GitHub](https://github.com/Mohammad-soqar)  
-💼 [Portfolio](https://mohammad-soqar.github.io/Portfolio-/)
+💼 [Portfolio](https://www.mohammadsoqarahmad.com/)
 
 ---
 
