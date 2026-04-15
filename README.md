@@ -47,10 +47,10 @@ const mohammad = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🏢 CODED — *Software & AI Developer*
-**Kuwait (Remote) · Mar 2026 – Present**
+**Kuwait (Remote) · Feb 2026 – Present**
 
 - Leading migration of **12+ module** enterprise system from Airtable → custom **Next.js + ERPNext** ERP
 - Built custom **drag-and-drop form builder** for non-technical staff
@@ -58,24 +58,14 @@ const mohammad = {
 - Integrating **Claude** & **OpenClaw** into daily operations
 
 </td>
-<td width="50%" valign="top">
 
-### ⚖️ JUSTICE4.0 — *Software & AI Developer*
-**Helsinki, Finland (Remote) · Aug 2025 – Present**
-
-- Building **SnowLex** — AI legal research on advanced **RAG pipelines**
-- Designed **Qdrant hybrid search** over **2M+ legal vectors**
-- Integrated **Ollama Poro 2** for Finnish/EU legal inference
-- Deploying on **Google Cloud** with agent-based reasoning
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎨 Tigflo — *Software Architect*
 **Sharjah, UAE (Remote) · Dec 2024 – Present**
-
+**Freelance**
 - **500+ reusable UI components** across light/dark themes
 - Delivered **140+ responsive screens** (dashboard, mobile, web)
 - Established scalable **design systems** & code review processes
@@ -83,12 +73,13 @@ const mohammad = {
 </td>
 <td width="50%" valign="top">
 
-### ✈️ Ticket Travel — *Full-Stack Developer*
-**Muscat, Oman (Remote) · Apr – Oct 2025**
-
-- Built full-scale **tourism platform** (booking, CRM, ERP)
-- Architected **multi-tenant AWS** for white-labeled deployments
-- Stack: Next.js, Node.js, Prisma, PostgreSQL
+### ⚖️ JUSTICE4.0 — *Software & AI Developer*
+**Helsinki, Finland (Remote) · Aug 2025 – Present**
+**Part-Time**
+- Building **SnowLex** — AI legal research on advanced **RAG pipelines**
+- Designed **Qdrant hybrid search** over **2M+ legal vectors**
+- Integrated **Ollama Poro 2** for Finnish/EU legal inference
+- Deploying on **Google Cloud** with agent-based reasoning
 
 </td>
 </tr>
