@@ -47,25 +47,25 @@ const mohammad = {
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="100%" valign="top" colspan="2">
 
 ### 🏢 CODED — *Software & AI Developer*
 **Kuwait (Remote) · Feb 2026 – Present**
-
 - Leading migration of **12+ module** enterprise system from Airtable → custom **Next.js + ERPNext** ERP
 - Built custom **drag-and-drop form builder** for non-technical staff
 - Developing **Figma extensions** & AI-powered **Slack bots**
 - Integrating **Claude** & **OpenClaw** into daily operations
+<br>
+
 
 </td>
-
 </tr>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎨 Tigflo — *Software Architect*
 **Sharjah, UAE (Remote) · Dec 2024 – Present**
-**Freelance**
+**(Freelance)**
 - **500+ reusable UI components** across light/dark themes
 - Delivered **140+ responsive screens** (dashboard, mobile, web)
 - Established scalable **design systems** & code review processes
@@ -75,12 +75,12 @@ const mohammad = {
 
 ### ⚖️ JUSTICE4.0 — *Software & AI Developer*
 **Helsinki, Finland (Remote) · Aug 2025 – Present**
-**Part-Time**
+**(Part-Time)**
 - Building **SnowLex** — AI legal research on advanced **RAG pipelines**
 - Designed **Qdrant hybrid search** over **2M+ legal vectors**
 - Integrated **Ollama Poro 2** for Finnish/EU legal inference
 - Deploying on **Google Cloud** with agent-based reasoning
-
+<br>
 </td>
 </tr>
 </table>
