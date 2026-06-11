@@ -40,6 +40,15 @@ const mohammad = {
 ```
 
 > *Software engineer with 3 years of experience in full-stack development and AI integration. From building scalable, secure web applications to designing RAG pipelines, integrating LLMs, and automating workflows — I deliver end-to-end solutions that move the needle.*
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammad-soqar/Mohammad-soqar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammad-soqar/Mohammad-soqar/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Mohammad-soqar/Mohammad-soqar/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -302,14 +311,6 @@ const mohammad = {
 
 </div>
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammad-soqar/Mohammad-soqar/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammad-soqar/Mohammad-soqar/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Mohammad-soqar/Mohammad-soqar/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
 
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7628E5,50:a855f7,100:6366f1&height=120&section=footer"/>
